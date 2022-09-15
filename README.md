@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcmchris an electronics engineer YouTuber
+- 👋 Hi, I’m @mcmchris an electronics engineer and YouTuber
 - 👀 I’m interested in Electronics, Machine learning, PCB design, 3D printing, Laser engraving, Programming, Apps development...
 - 🌱 I’m currently learning a lot of things every day and working independently as a tech content creator.
 - 💞️ I’m looking to collaborate on product reviews, embedded systems programming projects, AI, etc
